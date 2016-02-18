@@ -67,7 +67,6 @@
         };
     }());
 
-    // esporto il modulo nel namespace globale
     // exports.SHARE_POPUP = exports.SHARE_POPUP || SHARE_POPUP;
 
     SHARE_POPUP.init();
